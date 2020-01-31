@@ -1,0 +1,61 @@
+/*CSS DOCUMENT*/
+
+html {
+    background: #FFFFFF;
+}
+
+body {
+    background: #fff;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #75B2EB;
+    font-weight: 100;
+    font-size: 3em;
+    margin: 1em;
+    text-align: center;
+    letter-spacing: 0.06em;
+}
+
+h2 {
+    color: #425380;
+    font-size: 1.75em;
+    font-weight: 500;
+    text-align: center;
+    letter-spacing: 0.07em;
+}
+
+h3 {
+    color: #75B2EB;
+    font-weight: 500;
+    font-size: 1.25em;
+    text-transform: uppercase;
+    margin-top: 3em;
+    letter-spacing: 0.07em;
+}
+
+h4 {
+    color: #686868;
+    font-weight: 500;
+    margin-bottom: 0.75em;
+    letter-spacing: 0.01em;
+}
+
+h5 {
+    color: #B0B0B0;
+    font-weight: 300;
+    font-size: 0.8em;
+    margin: 0.5em;
+    letter-spacing: 0.03em;
+}
+
+h6 {
+    color: #425380;
+    font-weight: 550;
+    line-height: 1.3;
+    margin-top: 0.75em;
+    margin-left: 0.5em;
+    letter-spacing: 0.02em;
+}
+
