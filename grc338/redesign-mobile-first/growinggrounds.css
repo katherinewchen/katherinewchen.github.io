@@ -1,0 +1,81 @@
+/*CSS DOCUMENT*/
+img {
+    width: 100%; 
+    display: block;    
+}
+.header{
+    width: 70%;
+    margin-top: 3em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainmenu ul{
+    list-style-type: none;
+    padding: .5em;
+    text-align: center;
+}
+
+.mainmenu li {
+    display: block;
+    text-decoration: none;
+    clear: both;
+    font-family: 'Raleway', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: .5em;
+}
+
+.mainmenu a {
+    color: #4278A3;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: .5em;
+}
+
+a {
+    color: #4278A3;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#999999;
+    background: rgba(256, 256, 256, 0);
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    color: #4BA04B;
+    margin-top: 1.5em;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    color: #4278A3;
+}
+
+h3{
+    color: #999999;
+    font-family: 'Raleway', sans-serif;
+}
+
+p, li {
+    font-family: 'Muli', sans-serif;
+}
+
+.intropic {
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+}
