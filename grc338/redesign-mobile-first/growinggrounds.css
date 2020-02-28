@@ -3,6 +3,11 @@ img {
     width: 100%; 
     display: block;    
 }
+
+address {
+    font-style: normal;
+    font-family: 'Muli', sans-serif;
+}
 .header{
     width: 70%;
     margin-top: 3em;
@@ -38,7 +43,7 @@ a {
     text-decoration: none;
 }
 
-a:hover{
+a:hover {
     color:#999999;
     background: rgba(256, 256, 256, 0);
 }
@@ -46,22 +51,28 @@ a:hover{
 h1 {
     font-family: 'Raleway', sans-serif;
     color: #4BA04B;
-    margin-top: 1.5em;
+    margin-top: 1em;
     text-align: center;
 }
 
 h2 {
     font-family: 'Raleway', sans-serif;
     color: #4278A3;
+    margin-top: 1em;
+    margin-bottom: 0em;
 }
 
 h3{
     color: #999999;
     font-family: 'Raleway', sans-serif;
+    margin-top: 1em;
+    margin-bottom: 0em;
 }
 
 p, li {
     font-family: 'Muli', sans-serif;
+    margin-top: 0.5em;
+    margin-bottom: 1.25em;
 }
 
 .intropic {
