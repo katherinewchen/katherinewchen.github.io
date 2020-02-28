@@ -7,6 +7,7 @@ img {
 address {
     font-style: normal;
     font-family: 'Muli', sans-serif;
+    margin-top: 0.5em;
 }
 .header{
     width: 70%;
